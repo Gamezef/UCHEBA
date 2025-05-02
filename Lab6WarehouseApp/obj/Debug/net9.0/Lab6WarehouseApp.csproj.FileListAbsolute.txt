@@ -1,0 +1,14 @@
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\bin\Debug\net9.0\Lab6WarehouseApp.exe
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\bin\Debug\net9.0\Lab6WarehouseApp.deps.json
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\bin\Debug\net9.0\Lab6WarehouseApp.runtimeconfig.json
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\bin\Debug\net9.0\Lab6WarehouseApp.dll
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\bin\Debug\net9.0\Lab6WarehouseApp.pdb
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.AssemblyInfo.cs
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.dll
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\refint\Lab6WarehouseApp.dll
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.pdb
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\Lab6WarehouseApp.genruntimeconfig.cache
+C:\Users\Steam\OneDrive\Desktop\Laba6\Lab6WarehouseApp\obj\Debug\net9.0\ref\Lab6WarehouseApp.dll
